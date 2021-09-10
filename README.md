@@ -1,1 +1,1 @@
-This  is my first github assugnment
+This  is my first github assignment
